@@ -1,0 +1,647 @@
+type CYJCS_TildaMeisel{
+KathleneDelmastro:Boolean
+HankOtley:String
+MyronKirker:Int
+JanisOczon:Int
+ReathaMinniti:Int
+}
+type CYJCS_GladisDreckman{
+AiNakonechny:String
+JoseHillebrandt:String
+KylieBlevens:Int
+SariMancha:String
+}
+type CYJCS_LoriaVasko{
+CasieAnder:Boolean
+MariselaBrevig:Int
+PamellaCrapanzano:String
+}
+type CYJCS_AprylDoidge{
+MandyMunnell:String
+DotPeak:Int
+}
+type CYJCS_TarshaDannhaus{
+CassaundraPhilp:Int
+NomaDellaca:Int
+DolorisTraves:String
+}
+type CYJCS_ShannaHenao{
+ShirelyKattan:Int
+JoePierce:Int
+ElanorKut:Boolean
+JoesphLamoree:String
+PuraYandle:Boolean
+BeverleyMealing:Int
+ShaeAllaband:Int
+}
+type CYJCS_YevetteJubeh{
+KiaUrbany:Boolean
+LesleeZimba:String
+}
+type CYJCS_ShelbyCordes{
+BarbNeigh:Int
+MathildaValenzula:String
+}
+type CYJCS_DulcieWigren{
+JoellenMaurin:Int
+OtiliaGattie:Boolean
+NickyLelis:Boolean
+TaDottavio:String
+TameshaSleiman:Int
+AngelinaBiondi:Boolean
+RoseannaPetrov:String
+}
+type CYJCS_ShanNesseth{
+JenellBaraw:Int
+EnochSerianni:Boolean
+JeanePolzer:String
+MortonBowker:String
+}
+type CYJCS_HelgaGuill{
+TomBluel:Boolean
+JerleneTavella:String
+}
+type CYJCS_VinaChaput{
+JadaLahm:String
+CindiOldakowski:String
+ErnestoOnitsuka:Boolean
+CasieCalleros:Int
+}
+type CYJCS_JoleenAreias{
+}
+type CYJCS_MariTelle{
+JulietCarasquillo:Boolean
+JulieannJukich:Boolean
+ChelsieMissler:Int
+ZoniaSawtelle:Int
+PriscilaFeinen:Int
+TeresitaVanderark:Int
+}
+type CYJCS_GayWardian{
+EliseoZigich:String
+CathrineDunnum:Int
+HeidyGingell:Boolean
+CorrineDudack:Int
+GeniaMattson:String
+LeoRehrer:String
+AleneBoyea:String
+BernieceViguerie:String
+ShawnHolzerland:String
+}
+type CYJCS_KaterinePelech{
+JacquelinClary:Int
+RosamariaCofer:String
+ChristeneWeich:Boolean
+TerrellMccolm:Boolean
+}
+type CYJCS_OdaSeiersen{
+RaleighGunto:Int
+MarcMascola:Int
+}
+type CYJCS_JameyZachter{
+SetsukoReichhardt:Int
+JanuaryPlowe:Int
+CyndyHanke:Int
+AlbertoSanzone:String
+}
+type CYJCS_EverettePolowy{
+RasheedaMyerscough:Boolean
+DonnieVillella:String
+EnaMilanes:Int
+AracelyHelgesen:Int
+}
+type CYJCS_ZeldaSutor{
+ElbertAmodei:Int
+GastonBurkman:String
+LoreenBallman:String
+MaxwellAlbu:Int
+MonteKrawiecz:Boolean
+}
+type CYJCS_PhyllisOas{
+MarniVititow:String
+HangDalsanto:Boolean
+SheenaStockel:Int
+}
+type CYJCS_EstellBritten{
+OneidaBoden:String
+LilyWoodlin:Int
+JaneyDuxbury:Int
+FatimahWieder:String
+MiyokoMargel:String
+MilagrosVespa:String
+PeggyMortenson:Boolean
+NguyetRaybould:Boolean
+YurikoSaller:Boolean
+LaniDevol:Boolean
+}
+type CYJCS_GabrielPopple{
+MyronBrumer:String
+GidgetKadis:Int
+AnnieFaulstick:Int
+NecolePalmino:Boolean
+SantanaCheslak:String
+}
+type CYJCS_DiedrePardee{
+LacyGarala:Boolean
+MyrleSamples:Int
+JeremiahNabor:Boolean
+EdwinEbilane:Int
+}
+type CYJCS_OrethaKamuda{
+ClaudioFicher:String
+}
+type CYJCS_AliseWagoner{
+TrishSetzer:Boolean
+FranciscaDelauter:Int
+VellaBelman:Boolean
+NumbersWilkus:String
+}
+type CYJCS_FeCunnington{
+DoreneDavolt:String
+PamulaMuldowney:Boolean
+GeorginePotempa:String
+CatarinaSchlepp:Int
+TheolaLazcano:Boolean
+HerthaSoechting:Boolean
+}
+type CYJCS_HoustonLenberg{
+KayceResecker:Boolean
+JosefaRiddock:String
+GwendolynHetu:Boolean
+DaliaFontenette:String
+}
+type CYJCS_HilmaLecky{
+AnamariaMorocco:String
+DonaldPoehler:String
+CherPlance:String
+}
+type CYJCS_DeonBrazier{
+TyrellCashen:String
+JeniseRastetter:String
+MarvelWaldrope:Boolean
+MiguelinaHollifield:Boolean
+JonKillingworth:String
+TarynStach:Boolean
+AdrianaHartory:String
+}
+type CYJCS_MarcyFoland{
+UteStombaugh:Boolean
+LashondaVanduynhoven:Boolean
+LurlineFaustini:Int
+TiffinyWohlfahrt:Int
+}
+type CYJCS_JanieChristescu{
+CorrieWinrow:String
+ClariceKlaman:Int
+DeanneSturgess:String
+PattieMyra:Boolean
+CourtneyYowell:Boolean
+KimQuitero:Boolean
+}
+type CYJCS_ClaudioYurek{
+EllamaeSwantko:Boolean
+FredaHigh:Boolean
+RoxieMeager:String
+}
+type CYJCS_KandraSeahorn{
+MarcelleIyengar:String
+RochellSchooler:Int
+ArleenGusciora:Int
+XiaoDuberry:Boolean
+EboniOtsman:Boolean
+ClintLoescher:Int
+IolaBahde:Int
+BoydTuri:String
+KariVasallo:String
+}
+type CYJCS_PatrinaGoldizen{
+ChandaDroessler:Boolean
+YasmineBlanks:String
+DannPerrigan:String
+EsterScheumann:Int
+}
+type CYJCS_PrinceLinkon{
+LieselotteLeard:String
+ElvinBoom:Boolean
+}
+type CYJCS_CarlitaFelver{
+}
+type CYJCS_MardellSucgang{
+ChiaAumiller:String
+EdmundLippman:Boolean
+}
+type CYJCS_DorrisAldecoa{
+LauraBerton:Boolean
+LishaErbentraut:String
+JaneenHousekeeper:String
+CatrinaMagers:Int
+}
+type CYJCS_RoseleeKerst{
+LawrenceMedez:Boolean
+KimikoDewall:Boolean
+KiraSaunders:String
+KrystynaEngelkemier:Boolean
+}
+type CYJCS_EleanorAleyandrez{
+ShandiRaider:Boolean
+LamarGoldizen:Int
+ShawannaCunio:Boolean
+AnhBarnwell:Int
+ShaEngelson:String
+HelenWheaton:String
+}
+type CYJCS_BoydIreton{
+LashawndaAkram:String
+RoderickLagman:Boolean
+DodieSitterding:Boolean
+}
+type CYJCS_TresaPompey{
+OzellaDelamarter:String
+BarabaraSar:Boolean
+LiZuckerwar:Boolean
+MoniqueTindell:Int
+}
+type CYJCS_LeraRomanoff{
+JimmyPoties:Boolean
+RefugioComins:Int
+ScottyShipe:Boolean
+ArtHinkston:Int
+WendellFlournay:Boolean
+SharmaineDemay:Int
+}
+type CYJCS_ShenitaCaryl{
+MaryamPfahlert:String
+RoyalHerson:String
+}
+type CYJCS_AguedaHavas{
+JoellaAlleman:String
+SkyeShilling:Boolean
+JazminSnith:String
+MosesUgarte:Boolean
+JillianCatalanotto:String
+ElouiseKhanponaphan:Int
+JanayCatanese:Int
+}
+type CYJCS_RuthRattanachane{
+PierreMinas:Boolean
+ConchitaPhelts:String
+CharlsieSnaer:String
+SolPawelczyk:String
+CorieMoraites:Int
+}
+type CYJCS_PearlieHesselink{
+AllieMamo:Boolean
+SilvaSchiraldi:String
+JosephinaSwim:Boolean
+LianeLauster:Int
+RaeMitts:String
+KimberelyWeymouth:Int
+PiperDiwan:Boolean
+}
+type CYJCS_HsiuWanzek{
+LavadaRulon:Int
+IsmaelTinsley:String
+TyreeColamarino:Boolean
+EulaGitt:String
+SamualTomspon:String
+TwylaBrunskill:String
+}
+type CYJCS_LaurelMeloan{
+BrandyPizzolato:Boolean
+JacqueHopgood:Int
+WillieTysinger:String
+ViTangerman:Int
+}
+type CYJCS_JacquiGerbitz{
+CarlineMismit:Int
+NenaSherwood:Boolean
+ShellieLaferney:Boolean
+LamonicaGeary:Int
+}
+type CYJCS_JamaalGales{
+LeonaPlienis:Boolean
+GradyVanruler:Int
+AsiaLeibert:Boolean
+CristinaMennie:Boolean
+KristineHokes:Boolean
+VanBrutsch:Boolean
+}
+type CYJCS_LolitaArizaga{
+AldoBreighner:Int
+ElainaMccurtis:Int
+ChuHu:String
+LatarshaStoneking:String
+RustyFiene:Int
+MyronGarfias:Int
+JoyeStaats:Boolean
+}
+type CYJCS_VonnieFletes{
+BillyeRoehrich:Int
+MervinCrank:Boolean
+}
+type CYJCS_NatashiaFeatheringham{
+DenverScaife:String
+}
+type CYJCS_BonnieWichmann{
+VenitaBatzli:String
+BenZangari:Int
+MyrtisHumbel:Int
+AnetteKiefer:Int
+MaritzaLefchik:Int
+}
+type CYJCS_AletheaPellegrini{
+WallySporle:Int
+FlorentinoStrachan:Boolean
+AnnabellKrepp:Boolean
+}
+type CYJCS_SabineMcfaddin{
+BobbiVirelli:Int
+ShaylaHnot:Boolean
+WillisHemsley:Int
+ChristaLamora:String
+AnamariaBonser:String
+KayleighBartlette:String
+}
+type CYJCS_JanelleWalder{
+DesiraeKahan:Int
+SoilaStofflet:Int
+DoriaSwingler:String
+MernaLarsh:String
+}
+type CYJCS_LoreneScarbrough{
+LeoBurciaga:Boolean
+RubiePeeks:Boolean
+GarrettBachas:String
+KevaReyers:Int
+NapoleonMccann:Int
+}
+type CYJCS_SanoraSzyszka{
+CorrinneHum:Boolean
+JonelleSia:Int
+AnnisAlsing:Boolean
+ArianeDuca:String
+KaryMiddlemiss:Int
+ThomasPenkalski:Boolean
+SaulVocu:Int
+AngelesWeisholz:String
+LatonyaLupino:Boolean
+RuthaPerdzock:Int
+}
+type CYJCS_CindyStlucien{
+RolandeKondos:Int
+ShawndaWelchel:Int
+}
+type CYJCS_WilheminaNeuenschwande{
+ViMantegna:String
+JewellMarchak:Int
+ChristiGilbert:String
+LovieLastinger:Int
+LynnaBickelhaupt:Boolean
+}
+type CYJCS_BrandeBorremans{
+ArleenProbasco:String
+ElinaNevis:String
+IsraelBokal:String
+MagdalenaStarowicz:Int
+KanishaBonasera:String
+LigiaAckiss:Boolean
+}
+type CYJCS_AlfredaSwearingen{
+TerrenceDibenedict:String
+PatriaYearsley:String
+AlPolakoff:Boolean
+}
+type CYJCS_KennithJanick{
+DiegoGaris:Boolean
+AlliePinnick:Int
+AdrienneAshby:Boolean
+MarquettaWarrenfeltz:String
+JoycelynTaguchi:Int
+LeonardMetevier:Int
+}
+type CYJCS_CristobalMosure{
+LingKerber:Int
+FranklynBonsee:String
+AllanFusch:Boolean
+}
+type CYJCS_MistieWillibrand{
+CarolannHickenbottom:Int
+EthelynGarn:String
+LornaLeggette:String
+DerickFeagan:Int
+ThelmaWigner:Boolean
+}
+type CYJCS_AmiraDosch{
+}
+type CYJCS_NeryAzzano{
+CarolannApling:Int
+HelenaCronquist:Int
+ReginaBailleu:String
+}
+type CYJCS_GaylePanda{
+MaryVaninetti:Boolean
+ChiBertalan:String
+GertieFaigin:Int
+CorlissMccowin:Boolean
+SimonneThan:Boolean
+EunFieldman:Boolean
+RobbyPuckhaber:Boolean
+MauraMozgala:Boolean
+AmmieBurley:Int
+TamieMorelle:Boolean
+}
+type CYJCS_MelitaThurm{
+EmanuelTsukiyama:Int
+SteveGainey:Boolean
+DomingoAlmajhoub:Boolean
+}
+type CYJCS_KileyStallones{
+AltagraciaChenevey:Int
+MariaPoxon:Boolean
+CatherinMilbrandt:Int
+}
+type CYJCS_EleniFreil{
+ElvaRohner:String
+DeandreaKrinov:Boolean
+LaurineClay:String
+OctaviaZarrella:Int
+AbbeyMonte:Int
+}
+type CYJCS_BonnieBlacksher{
+ZonaArgabright:String
+ArdellHonkanen:String
+DoretheaLetko:String
+ArdellBachtel:String
+NeryHarmeyer:Int
+NatividadWason:Boolean
+}
+type CYJCS_IvonnePawlitschek{
+MissCapers:Boolean
+LeopoldoRomeno:Int
+JeanGerig:String
+ErnestineCorio:Boolean
+IonaVicari:Int
+FabiolaSittig:Int
+LoriWalcott:Int
+CalvinArchibeque:Int
+DianaShilt:Boolean
+DanyellLevario:Int
+}
+type CYJCS_CarmelinaMelendez{
+RusselGemaehlich:Int
+OnieShingleur:Boolean
+}
+type CYJCS_BrandenGleisner{
+BrittaneyBlackstar:Int
+DanielleFahrenkrug:String
+}
+type CYJCS_JimmyKate{
+}
+type CYJCS_DaveWicinsky{
+JinNassr:Boolean
+CristyTacason:Int
+ElenaAlbracht:Boolean
+JohanneUrtado:Int
+EvelyneSeils:Int
+MaishaPacetti:Int
+}
+type CYJCS_YeseniaSatcher{
+CaitlinThimmes:Int
+BernaAliotta:Int
+KristianTober:Boolean
+AdaKesterson:Boolean
+BerneiceMahrenholz:Boolean
+RisaParnin:Int
+GarthDraine:String
+}
+type CYJCS_CarylFirlik{
+KarolePence:Int
+CoreenGarsjo:Boolean
+BulahMarburger:Boolean
+NatalieRidge:String
+}
+type CYJCS_OlindaPomo{
+OdisFickle:Int
+LoydIntveld:String
+KaseyLopaz:String
+}
+type CYJCS_JessiaDurling{
+NikkiPieczynski:Boolean
+}
+type CYJCS_WernerBirckhead{
+SandyMickonis:String
+ArielNiedzwiecki:Boolean
+KylaPyper:Int
+}
+type CYJCS_MairaDefrang{
+CarterPlotrowski:Boolean
+JennellWolaver:Int
+SunshineCondreay:Boolean
+ClarissaSummerall:Boolean
+LamontSivan:String
+DarlenaGowdy:Int
+ZeniaThompon:String
+}
+type CYJCS_KatharinaRemos{
+FernandeYasinski:Int
+BruceWatring:Boolean
+HungLanpher:String
+TatumLundblad:String
+AnisaStarn:Boolean
+}
+type CYJCS_TeodoraDicapua{
+NievesRobin:String
+KenethRoenigk:Boolean
+LiaFerman:String
+MeiWoll:Boolean
+ElfredaLaderer:String
+RachealCotton:Boolean
+}
+type CYJCS_LawannaHolroyd{
+JoleenConforto:String
+LauraleeSukeforth:Boolean
+NanciBoydston:Int
+JamikaWhisted:Boolean
+}
+type CYJCS_MireyaWeltha{
+FeleciaPepitone:Boolean
+LaverneAhrenstorff:Int
+ArdelleBihm:Boolean
+}
+type CYJCS_StephanieHegre{
+CaroleeArduini:String
+EulaliaTuberman:Int
+NapoleonBarrickman:String
+AlonaTortorella:Int
+ClydeValaitis:Boolean
+BertieKinnon:Boolean
+}
+type CYJCS_QuincyHemley{
+DanyelGerdes:Boolean
+TomasaChea:Boolean
+CarissaSiefferman:String
+GenevieveFerrebee:String
+LieselotteTalcott:Boolean
+MindyWillenbring:Boolean
+SandyMacalma:Int
+RosalieWarran:String
+DelilaTrofholz:String
+}
+type CYJCS_LucyRiney{
+SaranWonser:Boolean
+DenniseBurrier:Int
+AlonsoSugimoto:Boolean
+GarthBoisen:String
+}
+type CYJCS_ArleenFredlund{
+PenneyHalo:String
+ShayWelford:String
+LissaWinterstein:Int
+JerrieHoefling:Boolean
+BeverleySadee:Boolean
+AnnikaMapstone:Boolean
+EsperanzaIannalo:Int
+CherryAllevato:Boolean
+}
+type CYJCS_ConstanceAvancena{
+MichealCogliano:Int
+BrittaniDesanto:String
+JohanaPhurrough:String
+}
+type CYJCS_NicolCangialosi{
+KyokoEllingsworth:String
+LovellaZotti:Boolean
+CletusRuether:Int
+PaolaKothari:Int
+ArlindaNatewa:String
+OllieCanevazzi:String
+WileyPimentel:Boolean
+SuzieReiniger:Int
+}
+type CYJCS_GloryJudkins{
+SamuelMccurry:String
+CorneliaMaxedon:Boolean
+AnamariaAndy:Int
+TheresaAlstad:Boolean
+TarahRuffell:String
+MargretDiestel:String
+LindaCreque:String
+}
+type CYJCS_MichelineCaller{
+LinnModert:Int
+PaulLuger:Int
+HildaHickonbottom:String
+CheriseRompf:Int
+GlennBigham:String
+ShastaKellem:String
+}
+type CYJCS_IonaPurter{
+LainePreslar:String
+ShereeSarver:String
+}
+type CYJCS_JulietaMonclova{
+JeromeCrandle:Int
+KayleenTucknott:Int
+MajorieCasalman:Boolean
+}
+

@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSLeighannBastin{
+   private Integer  DennaDarnold;
+   public void set_DennaDarnold(Integer DennaDarnold){
+   this.DennaDarnold=DennaDarnold;
+   }
+  public Integer get_DennaDarnold(){
+  this.DennaDarnold;
+  }
+   private Integer  KaleyDipasquale;
+   public void set_KaleyDipasquale(Integer KaleyDipasquale){
+   this.KaleyDipasquale=KaleyDipasquale;
+   }
+  public Integer get_KaleyDipasquale(){
+  this.KaleyDipasquale;
+  }
+   private Integer  AustinJarecki;
+   public void set_AustinJarecki(Integer AustinJarecki){
+   this.AustinJarecki=AustinJarecki;
+   }
+  public Integer get_AustinJarecki(){
+  this.AustinJarecki;
+  }
+   private String  JonathanBechel;
+   public void set_JonathanBechel(String JonathanBechel){
+   this.JonathanBechel=JonathanBechel;
+   }
+  public String get_JonathanBechel(){
+  this.JonathanBechel;
+  }
+   private Double  AndreeBudge;
+   public void set_AndreeBudge(Double AndreeBudge){
+   this.AndreeBudge=AndreeBudge;
+   }
+  public Double get_AndreeBudge(){
+  this.AndreeBudge;
+  }
+   private String  WilmerKubes;
+   public void set_WilmerKubes(String WilmerKubes){
+   this.WilmerKubes=WilmerKubes;
+   }
+  public String get_WilmerKubes(){
+  this.WilmerKubes;
+  }
+   private Integer  TomasAimbez;
+   public void set_TomasAimbez(Integer TomasAimbez){
+   this.TomasAimbez=TomasAimbez;
+   }
+  public Integer get_TomasAimbez(){
+  this.TomasAimbez;
+  }
+   private String  RemonaJunes;
+   public void set_RemonaJunes(String RemonaJunes){
+   this.RemonaJunes=RemonaJunes;
+   }
+  public String get_RemonaJunes(){
+  this.RemonaJunes;
+  }
+   private Integer  NorineLoze;
+   public void set_NorineLoze(Integer NorineLoze){
+   this.NorineLoze=NorineLoze;
+   }
+  public Integer get_NorineLoze(){
+  this.NorineLoze;
+  }
+   private Integer  PaulHameister;
+   public void set_PaulHameister(Integer PaulHameister){
+   this.PaulHameister=PaulHameister;
+   }
+  public Integer get_PaulHameister(){
+  this.PaulHameister;
+  }
+}

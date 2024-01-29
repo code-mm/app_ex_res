@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSReynaldaMonjaras{
+   private String  RoryPorteus;
+   public void set_RoryPorteus(String RoryPorteus){
+   this.RoryPorteus=RoryPorteus;
+   }
+  public String get_RoryPorteus(){
+  this.RoryPorteus;
+  }
+   private Double  TawnyFremont;
+   public void set_TawnyFremont(Double TawnyFremont){
+   this.TawnyFremont=TawnyFremont;
+   }
+  public Double get_TawnyFremont(){
+  this.TawnyFremont;
+  }
+   private String  MarianValenza;
+   public void set_MarianValenza(String MarianValenza){
+   this.MarianValenza=MarianValenza;
+   }
+  public String get_MarianValenza(){
+  this.MarianValenza;
+  }
+   private Boolean  AideDeedrick;
+   public void set_AideDeedrick(Boolean AideDeedrick){
+   this.AideDeedrick=AideDeedrick;
+   }
+  public Boolean get_AideDeedrick(){
+  this.AideDeedrick;
+  }
+   private Double  DemarcusSouthern;
+   public void set_DemarcusSouthern(Double DemarcusSouthern){
+   this.DemarcusSouthern=DemarcusSouthern;
+   }
+  public Double get_DemarcusSouthern(){
+  this.DemarcusSouthern;
+  }
+   private String  JerrodSaborido;
+   public void set_JerrodSaborido(String JerrodSaborido){
+   this.JerrodSaborido=JerrodSaborido;
+   }
+  public String get_JerrodSaborido(){
+  this.JerrodSaborido;
+  }
+   private Boolean  AndreasSommar;
+   public void set_AndreasSommar(Boolean AndreasSommar){
+   this.AndreasSommar=AndreasSommar;
+   }
+  public Boolean get_AndreasSommar(){
+  this.AndreasSommar;
+  }
+   private Boolean  TammaraOver;
+   public void set_TammaraOver(Boolean TammaraOver){
+   this.TammaraOver=TammaraOver;
+   }
+  public Boolean get_TammaraOver(){
+  this.TammaraOver;
+  }
+   private Double  AlbinaMulling;
+   public void set_AlbinaMulling(Double AlbinaMulling){
+   this.AlbinaMulling=AlbinaMulling;
+   }
+  public Double get_AlbinaMulling(){
+  this.AlbinaMulling;
+  }
+   private Double  VanesaScoresby;
+   public void set_VanesaScoresby(Double VanesaScoresby){
+   this.VanesaScoresby=VanesaScoresby;
+   }
+  public Double get_VanesaScoresby(){
+  this.VanesaScoresby;
+  }
+}

@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSColletteYessios{
+   private Integer  BertramLathrum;
+   public void set_BertramLathrum(Integer BertramLathrum){
+   this.BertramLathrum=BertramLathrum;
+   }
+  public Integer get_BertramLathrum(){
+  this.BertramLathrum;
+  }
+   private Integer  AngelicaMontas;
+   public void set_AngelicaMontas(Integer AngelicaMontas){
+   this.AngelicaMontas=AngelicaMontas;
+   }
+  public Integer get_AngelicaMontas(){
+  this.AngelicaMontas;
+  }
+   private Boolean  KayleneHochstetter;
+   public void set_KayleneHochstetter(Boolean KayleneHochstetter){
+   this.KayleneHochstetter=KayleneHochstetter;
+   }
+  public Boolean get_KayleneHochstetter(){
+  this.KayleneHochstetter;
+  }
+   private Double  SalinaLovier;
+   public void set_SalinaLovier(Double SalinaLovier){
+   this.SalinaLovier=SalinaLovier;
+   }
+  public Double get_SalinaLovier(){
+  this.SalinaLovier;
+  }
+   private Double  WernerHauber;
+   public void set_WernerHauber(Double WernerHauber){
+   this.WernerHauber=WernerHauber;
+   }
+  public Double get_WernerHauber(){
+  this.WernerHauber;
+  }
+   private Integer  LeesaGidney;
+   public void set_LeesaGidney(Integer LeesaGidney){
+   this.LeesaGidney=LeesaGidney;
+   }
+  public Integer get_LeesaGidney(){
+  this.LeesaGidney;
+  }
+   private Double  ElwandaKominski;
+   public void set_ElwandaKominski(Double ElwandaKominski){
+   this.ElwandaKominski=ElwandaKominski;
+   }
+  public Double get_ElwandaKominski(){
+  this.ElwandaKominski;
+  }
+   private Integer  IsabellGreenawalt;
+   public void set_IsabellGreenawalt(Integer IsabellGreenawalt){
+   this.IsabellGreenawalt=IsabellGreenawalt;
+   }
+  public Integer get_IsabellGreenawalt(){
+  this.IsabellGreenawalt;
+  }
+   private String  TereasaMarushia;
+   public void set_TereasaMarushia(String TereasaMarushia){
+   this.TereasaMarushia=TereasaMarushia;
+   }
+  public String get_TereasaMarushia(){
+  this.TereasaMarushia;
+  }
+   private Integer  BertramChasse;
+   public void set_BertramChasse(Integer BertramChasse){
+   this.BertramChasse=BertramChasse;
+   }
+  public Integer get_BertramChasse(){
+  this.BertramChasse;
+  }
+}

@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSSaundraCorse{
+   private String  DeborahStflorant;
+   public void set_DeborahStflorant(String DeborahStflorant){
+   this.DeborahStflorant=DeborahStflorant;
+   }
+  public String get_DeborahStflorant(){
+  this.DeborahStflorant;
+  }
+   private Boolean  MadonnaHulings;
+   public void set_MadonnaHulings(Boolean MadonnaHulings){
+   this.MadonnaHulings=MadonnaHulings;
+   }
+  public Boolean get_MadonnaHulings(){
+  this.MadonnaHulings;
+  }
+   private Double  AbdulKinton;
+   public void set_AbdulKinton(Double AbdulKinton){
+   this.AbdulKinton=AbdulKinton;
+   }
+  public Double get_AbdulKinton(){
+  this.AbdulKinton;
+  }
+   private String  HsiuBoluda;
+   public void set_HsiuBoluda(String HsiuBoluda){
+   this.HsiuBoluda=HsiuBoluda;
+   }
+  public String get_HsiuBoluda(){
+  this.HsiuBoluda;
+  }
+   private Integer  NorineBurkman;
+   public void set_NorineBurkman(Integer NorineBurkman){
+   this.NorineBurkman=NorineBurkman;
+   }
+  public Integer get_NorineBurkman(){
+  this.NorineBurkman;
+  }
+   private String  HermineTrass;
+   public void set_HermineTrass(String HermineTrass){
+   this.HermineTrass=HermineTrass;
+   }
+  public String get_HermineTrass(){
+  this.HermineTrass;
+  }
+   private Integer  DebbraWawrzyniak;
+   public void set_DebbraWawrzyniak(Integer DebbraWawrzyniak){
+   this.DebbraWawrzyniak=DebbraWawrzyniak;
+   }
+  public Integer get_DebbraWawrzyniak(){
+  this.DebbraWawrzyniak;
+  }
+   private String  JustinBenestad;
+   public void set_JustinBenestad(String JustinBenestad){
+   this.JustinBenestad=JustinBenestad;
+   }
+  public String get_JustinBenestad(){
+  this.JustinBenestad;
+  }
+   private String  RogerVolstad;
+   public void set_RogerVolstad(String RogerVolstad){
+   this.RogerVolstad=RogerVolstad;
+   }
+  public String get_RogerVolstad(){
+  this.RogerVolstad;
+  }
+   private Boolean  KelleeBa;
+   public void set_KelleeBa(Boolean KelleeBa){
+   this.KelleeBa=KelleeBa;
+   }
+  public Boolean get_KelleeBa(){
+  this.KelleeBa;
+  }
+}

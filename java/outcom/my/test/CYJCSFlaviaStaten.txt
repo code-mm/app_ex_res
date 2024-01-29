@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSFlaviaStaten{
+   private Double  CaraRogish;
+   public void set_CaraRogish(Double CaraRogish){
+   this.CaraRogish=CaraRogish;
+   }
+  public Double get_CaraRogish(){
+  this.CaraRogish;
+  }
+   private String  BarberaMuckey;
+   public void set_BarberaMuckey(String BarberaMuckey){
+   this.BarberaMuckey=BarberaMuckey;
+   }
+  public String get_BarberaMuckey(){
+  this.BarberaMuckey;
+  }
+   private Integer  CandisRoup;
+   public void set_CandisRoup(Integer CandisRoup){
+   this.CandisRoup=CandisRoup;
+   }
+  public Integer get_CandisRoup(){
+  this.CandisRoup;
+  }
+   private Boolean  MyrnaHashbarger;
+   public void set_MyrnaHashbarger(Boolean MyrnaHashbarger){
+   this.MyrnaHashbarger=MyrnaHashbarger;
+   }
+  public Boolean get_MyrnaHashbarger(){
+  this.MyrnaHashbarger;
+  }
+   private Integer  ChantellAvilla;
+   public void set_ChantellAvilla(Integer ChantellAvilla){
+   this.ChantellAvilla=ChantellAvilla;
+   }
+  public Integer get_ChantellAvilla(){
+  this.ChantellAvilla;
+  }
+   private String  ElsaOhanian;
+   public void set_ElsaOhanian(String ElsaOhanian){
+   this.ElsaOhanian=ElsaOhanian;
+   }
+  public String get_ElsaOhanian(){
+  this.ElsaOhanian;
+  }
+   private String  LashonCheyney;
+   public void set_LashonCheyney(String LashonCheyney){
+   this.LashonCheyney=LashonCheyney;
+   }
+  public String get_LashonCheyney(){
+  this.LashonCheyney;
+  }
+   private Double  MasonHelmy;
+   public void set_MasonHelmy(Double MasonHelmy){
+   this.MasonHelmy=MasonHelmy;
+   }
+  public Double get_MasonHelmy(){
+  this.MasonHelmy;
+  }
+   private Integer  LaurenCatlin;
+   public void set_LaurenCatlin(Integer LaurenCatlin){
+   this.LaurenCatlin=LaurenCatlin;
+   }
+  public Integer get_LaurenCatlin(){
+  this.LaurenCatlin;
+  }
+   private Double  CarmineGillin;
+   public void set_CarmineGillin(Double CarmineGillin){
+   this.CarmineGillin=CarmineGillin;
+   }
+  public Double get_CarmineGillin(){
+  this.CarmineGillin;
+  }
+}

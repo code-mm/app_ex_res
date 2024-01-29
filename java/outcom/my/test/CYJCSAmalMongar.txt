@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSAmalMongar{
+   private Boolean  LuluGeeter;
+   public void set_LuluGeeter(Boolean LuluGeeter){
+   this.LuluGeeter=LuluGeeter;
+   }
+  public Boolean get_LuluGeeter(){
+  this.LuluGeeter;
+  }
+   private Integer  CarynGrossklaus;
+   public void set_CarynGrossklaus(Integer CarynGrossklaus){
+   this.CarynGrossklaus=CarynGrossklaus;
+   }
+  public Integer get_CarynGrossklaus(){
+  this.CarynGrossklaus;
+  }
+   private Integer  JulianHariston;
+   public void set_JulianHariston(Integer JulianHariston){
+   this.JulianHariston=JulianHariston;
+   }
+  public Integer get_JulianHariston(){
+  this.JulianHariston;
+  }
+   private Integer  AureaSerie;
+   public void set_AureaSerie(Integer AureaSerie){
+   this.AureaSerie=AureaSerie;
+   }
+  public Integer get_AureaSerie(){
+  this.AureaSerie;
+  }
+   private Integer  LulaNovi;
+   public void set_LulaNovi(Integer LulaNovi){
+   this.LulaNovi=LulaNovi;
+   }
+  public Integer get_LulaNovi(){
+  this.LulaNovi;
+  }
+   private String  DeltaCarow;
+   public void set_DeltaCarow(String DeltaCarow){
+   this.DeltaCarow=DeltaCarow;
+   }
+  public String get_DeltaCarow(){
+  this.DeltaCarow;
+  }
+   private Integer  CheyenneKell;
+   public void set_CheyenneKell(Integer CheyenneKell){
+   this.CheyenneKell=CheyenneKell;
+   }
+  public Integer get_CheyenneKell(){
+  this.CheyenneKell;
+  }
+   private Boolean  LeonelKarmo;
+   public void set_LeonelKarmo(Boolean LeonelKarmo){
+   this.LeonelKarmo=LeonelKarmo;
+   }
+  public Boolean get_LeonelKarmo(){
+  this.LeonelKarmo;
+  }
+   private Boolean  DonetteByro;
+   public void set_DonetteByro(Boolean DonetteByro){
+   this.DonetteByro=DonetteByro;
+   }
+  public Boolean get_DonetteByro(){
+  this.DonetteByro;
+  }
+   private Double  TyronLeitz;
+   public void set_TyronLeitz(Double TyronLeitz){
+   this.TyronLeitz=TyronLeitz;
+   }
+  public Double get_TyronLeitz(){
+  this.TyronLeitz;
+  }
+}

@@ -1,0 +1,51 @@
+plugins {
+    id 'java'
+    id "com.netflix.dgs.codegen" version "6.0.3"
+}
+
+group = 'com.my'
+version = '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.9.0"
+    implementation 'com.apifan.common:common-random:1.0.21'
+
+    implementation "org.freemarker:freemarker:2.3.32"
+}
+
+test {
+    useJUnitPlatform()
+}
+
+
+generateJava {
+//    schemaPaths = ["${projectDir}/schema/dgraph"] // List of directories containing schema files
+    schemaPaths = ["${projectDir}/graphqls/cyjcs.graphqls"] // List of directories containing schema files
+    packageName = 'com.cyzqb' // The package name to use to generate sources
+    generateClientv2 = true
+    typeMapping = [
+            DateTime     : "java.lang.String",
+            Date         : "java.time.LocalDate",
+            Time         : "java.time.OffsetTime",
+            URI          : "java.net.URI",
+            Object       : "java.lang.Object",
+            Url          : "java.lang.String",
+            PositiveFloat: "java.lang.Float",
+            PhoneNumber  : "java.lang.String",
+            Email        : "java.lang.String",
+            ID           : "java.lang.String",
+            Text         : "java.lang.String",
+            JSON         : "java.lang.Object",
+            Html         : "java.lang.String",
+            BigDecimal   : "java.math.BigDecimal",
+            Int64        : "java.lang.Long"
+    ]
+    language = 'java'
+}

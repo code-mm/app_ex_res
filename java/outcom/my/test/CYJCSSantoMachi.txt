@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSSantoMachi{
+   private String  ErnaLeopard;
+   public void set_ErnaLeopard(String ErnaLeopard){
+   this.ErnaLeopard=ErnaLeopard;
+   }
+  public String get_ErnaLeopard(){
+  this.ErnaLeopard;
+  }
+   private String  PhyliciaBogden;
+   public void set_PhyliciaBogden(String PhyliciaBogden){
+   this.PhyliciaBogden=PhyliciaBogden;
+   }
+  public String get_PhyliciaBogden(){
+  this.PhyliciaBogden;
+  }
+   private String  LeroyWindell;
+   public void set_LeroyWindell(String LeroyWindell){
+   this.LeroyWindell=LeroyWindell;
+   }
+  public String get_LeroyWindell(){
+  this.LeroyWindell;
+  }
+   private Integer  GertrudisWeitzman;
+   public void set_GertrudisWeitzman(Integer GertrudisWeitzman){
+   this.GertrudisWeitzman=GertrudisWeitzman;
+   }
+  public Integer get_GertrudisWeitzman(){
+  this.GertrudisWeitzman;
+  }
+   private Boolean  ChesterSzlosek;
+   public void set_ChesterSzlosek(Boolean ChesterSzlosek){
+   this.ChesterSzlosek=ChesterSzlosek;
+   }
+  public Boolean get_ChesterSzlosek(){
+  this.ChesterSzlosek;
+  }
+   private Boolean  CatalinaSheaffer;
+   public void set_CatalinaSheaffer(Boolean CatalinaSheaffer){
+   this.CatalinaSheaffer=CatalinaSheaffer;
+   }
+  public Boolean get_CatalinaSheaffer(){
+  this.CatalinaSheaffer;
+  }
+   private Double  LinnieThies;
+   public void set_LinnieThies(Double LinnieThies){
+   this.LinnieThies=LinnieThies;
+   }
+  public Double get_LinnieThies(){
+  this.LinnieThies;
+  }
+   private Integer  KrystalAhluwalia;
+   public void set_KrystalAhluwalia(Integer KrystalAhluwalia){
+   this.KrystalAhluwalia=KrystalAhluwalia;
+   }
+  public Integer get_KrystalAhluwalia(){
+  this.KrystalAhluwalia;
+  }
+   private String  BelkisKistner;
+   public void set_BelkisKistner(String BelkisKistner){
+   this.BelkisKistner=BelkisKistner;
+   }
+  public String get_BelkisKistner(){
+  this.BelkisKistner;
+  }
+   private Integer  LakeshiaFortmann;
+   public void set_LakeshiaFortmann(Integer LakeshiaFortmann){
+   this.LakeshiaFortmann=LakeshiaFortmann;
+   }
+  public Integer get_LakeshiaFortmann(){
+  this.LakeshiaFortmann;
+  }
+}

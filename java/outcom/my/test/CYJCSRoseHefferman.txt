@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSRoseHefferman{
+   private String  TysonSulivan;
+   public void set_TysonSulivan(String TysonSulivan){
+   this.TysonSulivan=TysonSulivan;
+   }
+  public String get_TysonSulivan(){
+  this.TysonSulivan;
+  }
+   private Integer  TaDeeley;
+   public void set_TaDeeley(Integer TaDeeley){
+   this.TaDeeley=TaDeeley;
+   }
+  public Integer get_TaDeeley(){
+  this.TaDeeley;
+  }
+   private String  RenitaBurleigh;
+   public void set_RenitaBurleigh(String RenitaBurleigh){
+   this.RenitaBurleigh=RenitaBurleigh;
+   }
+  public String get_RenitaBurleigh(){
+  this.RenitaBurleigh;
+  }
+   private Boolean  ColettaChantha;
+   public void set_ColettaChantha(Boolean ColettaChantha){
+   this.ColettaChantha=ColettaChantha;
+   }
+  public Boolean get_ColettaChantha(){
+  this.ColettaChantha;
+  }
+   private Boolean  HiediSulivan;
+   public void set_HiediSulivan(Boolean HiediSulivan){
+   this.HiediSulivan=HiediSulivan;
+   }
+  public Boolean get_HiediSulivan(){
+  this.HiediSulivan;
+  }
+   private Double  ShirlMapalo;
+   public void set_ShirlMapalo(Double ShirlMapalo){
+   this.ShirlMapalo=ShirlMapalo;
+   }
+  public Double get_ShirlMapalo(){
+  this.ShirlMapalo;
+  }
+   private String  CleoWarp;
+   public void set_CleoWarp(String CleoWarp){
+   this.CleoWarp=CleoWarp;
+   }
+  public String get_CleoWarp(){
+  this.CleoWarp;
+  }
+   private Double  RosamariaMirando;
+   public void set_RosamariaMirando(Double RosamariaMirando){
+   this.RosamariaMirando=RosamariaMirando;
+   }
+  public Double get_RosamariaMirando(){
+  this.RosamariaMirando;
+  }
+   private Integer  KristinSilvera;
+   public void set_KristinSilvera(Integer KristinSilvera){
+   this.KristinSilvera=KristinSilvera;
+   }
+  public Integer get_KristinSilvera(){
+  this.KristinSilvera;
+  }
+   private Double  JamiJannell;
+   public void set_JamiJannell(Double JamiJannell){
+   this.JamiJannell=JamiJannell;
+   }
+  public Double get_JamiJannell(){
+  this.JamiJannell;
+  }
+}

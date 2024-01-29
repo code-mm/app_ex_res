@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSPerlaStofferahn{
+   private Boolean  CarlaCantatore;
+   public void set_CarlaCantatore(Boolean CarlaCantatore){
+   this.CarlaCantatore=CarlaCantatore;
+   }
+  public Boolean get_CarlaCantatore(){
+  this.CarlaCantatore;
+  }
+   private String  TerranceRobateau;
+   public void set_TerranceRobateau(String TerranceRobateau){
+   this.TerranceRobateau=TerranceRobateau;
+   }
+  public String get_TerranceRobateau(){
+  this.TerranceRobateau;
+  }
+   private String  ToraDarbro;
+   public void set_ToraDarbro(String ToraDarbro){
+   this.ToraDarbro=ToraDarbro;
+   }
+  public String get_ToraDarbro(){
+  this.ToraDarbro;
+  }
+   private Double  VernettaMagadan;
+   public void set_VernettaMagadan(Double VernettaMagadan){
+   this.VernettaMagadan=VernettaMagadan;
+   }
+  public Double get_VernettaMagadan(){
+  this.VernettaMagadan;
+  }
+   private Boolean  AmparoBuggy;
+   public void set_AmparoBuggy(Boolean AmparoBuggy){
+   this.AmparoBuggy=AmparoBuggy;
+   }
+  public Boolean get_AmparoBuggy(){
+  this.AmparoBuggy;
+  }
+   private Double  ShirleneKneeskern;
+   public void set_ShirleneKneeskern(Double ShirleneKneeskern){
+   this.ShirleneKneeskern=ShirleneKneeskern;
+   }
+  public Double get_ShirleneKneeskern(){
+  this.ShirleneKneeskern;
+  }
+   private Boolean  SuziHalderman;
+   public void set_SuziHalderman(Boolean SuziHalderman){
+   this.SuziHalderman=SuziHalderman;
+   }
+  public Boolean get_SuziHalderman(){
+  this.SuziHalderman;
+  }
+   private Double  LoritaCarrothers;
+   public void set_LoritaCarrothers(Double LoritaCarrothers){
+   this.LoritaCarrothers=LoritaCarrothers;
+   }
+  public Double get_LoritaCarrothers(){
+  this.LoritaCarrothers;
+  }
+   private Integer  MadelynLinehan;
+   public void set_MadelynLinehan(Integer MadelynLinehan){
+   this.MadelynLinehan=MadelynLinehan;
+   }
+  public Integer get_MadelynLinehan(){
+  this.MadelynLinehan;
+  }
+   private Double  RosaleePeragine;
+   public void set_RosaleePeragine(Double RosaleePeragine){
+   this.RosaleePeragine=RosaleePeragine;
+   }
+  public Double get_RosaleePeragine(){
+  this.RosaleePeragine;
+  }
+}

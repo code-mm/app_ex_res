@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSDelfinaMounger{
+   private Boolean  DayleNegley;
+   public void set_DayleNegley(Boolean DayleNegley){
+   this.DayleNegley=DayleNegley;
+   }
+  public Boolean get_DayleNegley(){
+  this.DayleNegley;
+  }
+   private Boolean  ErickaLahaye;
+   public void set_ErickaLahaye(Boolean ErickaLahaye){
+   this.ErickaLahaye=ErickaLahaye;
+   }
+  public Boolean get_ErickaLahaye(){
+  this.ErickaLahaye;
+  }
+   private Boolean  MillyBalentine;
+   public void set_MillyBalentine(Boolean MillyBalentine){
+   this.MillyBalentine=MillyBalentine;
+   }
+  public Boolean get_MillyBalentine(){
+  this.MillyBalentine;
+  }
+   private String  MarcusVillaquiran;
+   public void set_MarcusVillaquiran(String MarcusVillaquiran){
+   this.MarcusVillaquiran=MarcusVillaquiran;
+   }
+  public String get_MarcusVillaquiran(){
+  this.MarcusVillaquiran;
+  }
+   private Double  ValentinFiorentini;
+   public void set_ValentinFiorentini(Double ValentinFiorentini){
+   this.ValentinFiorentini=ValentinFiorentini;
+   }
+  public Double get_ValentinFiorentini(){
+  this.ValentinFiorentini;
+  }
+   private Integer  ByronKozel;
+   public void set_ByronKozel(Integer ByronKozel){
+   this.ByronKozel=ByronKozel;
+   }
+  public Integer get_ByronKozel(){
+  this.ByronKozel;
+  }
+   private String  SterlingAddams;
+   public void set_SterlingAddams(String SterlingAddams){
+   this.SterlingAddams=SterlingAddams;
+   }
+  public String get_SterlingAddams(){
+  this.SterlingAddams;
+  }
+   private Boolean  DixieBrading;
+   public void set_DixieBrading(Boolean DixieBrading){
+   this.DixieBrading=DixieBrading;
+   }
+  public Boolean get_DixieBrading(){
+  this.DixieBrading;
+  }
+   private Double  YuSipho;
+   public void set_YuSipho(Double YuSipho){
+   this.YuSipho=YuSipho;
+   }
+  public Double get_YuSipho(){
+  this.YuSipho;
+  }
+   private String  JaniWilkey;
+   public void set_JaniWilkey(String JaniWilkey){
+   this.JaniWilkey=JaniWilkey;
+   }
+  public String get_JaniWilkey(){
+  this.JaniWilkey;
+  }
+}

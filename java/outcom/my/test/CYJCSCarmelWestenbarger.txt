@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSCarmelWestenbarger{
+   private Boolean  NicholeDowell;
+   public void set_NicholeDowell(Boolean NicholeDowell){
+   this.NicholeDowell=NicholeDowell;
+   }
+  public Boolean get_NicholeDowell(){
+  this.NicholeDowell;
+  }
+   private Double  ElviraMurano;
+   public void set_ElviraMurano(Double ElviraMurano){
+   this.ElviraMurano=ElviraMurano;
+   }
+  public Double get_ElviraMurano(){
+  this.ElviraMurano;
+  }
+   private Double  RamonaGullotta;
+   public void set_RamonaGullotta(Double RamonaGullotta){
+   this.RamonaGullotta=RamonaGullotta;
+   }
+  public Double get_RamonaGullotta(){
+  this.RamonaGullotta;
+  }
+   private String  LeannJepko;
+   public void set_LeannJepko(String LeannJepko){
+   this.LeannJepko=LeannJepko;
+   }
+  public String get_LeannJepko(){
+  this.LeannJepko;
+  }
+   private Double  ChristianeTripplett;
+   public void set_ChristianeTripplett(Double ChristianeTripplett){
+   this.ChristianeTripplett=ChristianeTripplett;
+   }
+  public Double get_ChristianeTripplett(){
+  this.ChristianeTripplett;
+  }
+   private Integer  ConradEspenlaub;
+   public void set_ConradEspenlaub(Integer ConradEspenlaub){
+   this.ConradEspenlaub=ConradEspenlaub;
+   }
+  public Integer get_ConradEspenlaub(){
+  this.ConradEspenlaub;
+  }
+   private Integer  DenverPerley;
+   public void set_DenverPerley(Integer DenverPerley){
+   this.DenverPerley=DenverPerley;
+   }
+  public Integer get_DenverPerley(){
+  this.DenverPerley;
+  }
+   private Integer  DeandreScore;
+   public void set_DeandreScore(Integer DeandreScore){
+   this.DeandreScore=DeandreScore;
+   }
+  public Integer get_DeandreScore(){
+  this.DeandreScore;
+  }
+   private String  AldaBallog;
+   public void set_AldaBallog(String AldaBallog){
+   this.AldaBallog=AldaBallog;
+   }
+  public String get_AldaBallog(){
+  this.AldaBallog;
+  }
+   private Double  MaureenGarzone;
+   public void set_MaureenGarzone(Double MaureenGarzone){
+   this.MaureenGarzone=MaureenGarzone;
+   }
+  public Double get_MaureenGarzone(){
+  this.MaureenGarzone;
+  }
+}

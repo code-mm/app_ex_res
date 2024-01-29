@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSDarellLapere{
+   private Integer  YonOvando;
+   public void set_YonOvando(Integer YonOvando){
+   this.YonOvando=YonOvando;
+   }
+  public Integer get_YonOvando(){
+  this.YonOvando;
+  }
+   private String  TheodoraGarahan;
+   public void set_TheodoraGarahan(String TheodoraGarahan){
+   this.TheodoraGarahan=TheodoraGarahan;
+   }
+  public String get_TheodoraGarahan(){
+  this.TheodoraGarahan;
+  }
+   private Integer  GiovannaMaye;
+   public void set_GiovannaMaye(Integer GiovannaMaye){
+   this.GiovannaMaye=GiovannaMaye;
+   }
+  public Integer get_GiovannaMaye(){
+  this.GiovannaMaye;
+  }
+   private Double  EmelinaMellendorf;
+   public void set_EmelinaMellendorf(Double EmelinaMellendorf){
+   this.EmelinaMellendorf=EmelinaMellendorf;
+   }
+  public Double get_EmelinaMellendorf(){
+  this.EmelinaMellendorf;
+  }
+   private String  MarcBaris;
+   public void set_MarcBaris(String MarcBaris){
+   this.MarcBaris=MarcBaris;
+   }
+  public String get_MarcBaris(){
+  this.MarcBaris;
+  }
+   private String  ChiekoJuriga;
+   public void set_ChiekoJuriga(String ChiekoJuriga){
+   this.ChiekoJuriga=ChiekoJuriga;
+   }
+  public String get_ChiekoJuriga(){
+  this.ChiekoJuriga;
+  }
+   private Double  EvieWeisholz;
+   public void set_EvieWeisholz(Double EvieWeisholz){
+   this.EvieWeisholz=EvieWeisholz;
+   }
+  public Double get_EvieWeisholz(){
+  this.EvieWeisholz;
+  }
+   private Integer  MargheritaPfefferle;
+   public void set_MargheritaPfefferle(Integer MargheritaPfefferle){
+   this.MargheritaPfefferle=MargheritaPfefferle;
+   }
+  public Integer get_MargheritaPfefferle(){
+  this.MargheritaPfefferle;
+  }
+   private Double  BrandieButzke;
+   public void set_BrandieButzke(Double BrandieButzke){
+   this.BrandieButzke=BrandieButzke;
+   }
+  public Double get_BrandieButzke(){
+  this.BrandieButzke;
+  }
+   private Boolean  AmberlyDomhoff;
+   public void set_AmberlyDomhoff(Boolean AmberlyDomhoff){
+   this.AmberlyDomhoff=AmberlyDomhoff;
+   }
+  public Boolean get_AmberlyDomhoff(){
+  this.AmberlyDomhoff;
+  }
+}

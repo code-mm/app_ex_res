@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSMyrlArnerich{
+   private Double  AndraGriffon;
+   public void set_AndraGriffon(Double AndraGriffon){
+   this.AndraGriffon=AndraGriffon;
+   }
+  public Double get_AndraGriffon(){
+  this.AndraGriffon;
+  }
+   private String  DanielOrk;
+   public void set_DanielOrk(String DanielOrk){
+   this.DanielOrk=DanielOrk;
+   }
+  public String get_DanielOrk(){
+  this.DanielOrk;
+  }
+   private String  LeathaMontaluo;
+   public void set_LeathaMontaluo(String LeathaMontaluo){
+   this.LeathaMontaluo=LeathaMontaluo;
+   }
+  public String get_LeathaMontaluo(){
+  this.LeathaMontaluo;
+  }
+   private String  MabelleCandee;
+   public void set_MabelleCandee(String MabelleCandee){
+   this.MabelleCandee=MabelleCandee;
+   }
+  public String get_MabelleCandee(){
+  this.MabelleCandee;
+  }
+   private Double  DonnaPanzella;
+   public void set_DonnaPanzella(Double DonnaPanzella){
+   this.DonnaPanzella=DonnaPanzella;
+   }
+  public Double get_DonnaPanzella(){
+  this.DonnaPanzella;
+  }
+   private Boolean  AnnetteManko;
+   public void set_AnnetteManko(Boolean AnnetteManko){
+   this.AnnetteManko=AnnetteManko;
+   }
+  public Boolean get_AnnetteManko(){
+  this.AnnetteManko;
+  }
+   private Integer  NatishaArfman;
+   public void set_NatishaArfman(Integer NatishaArfman){
+   this.NatishaArfman=NatishaArfman;
+   }
+  public Integer get_NatishaArfman(){
+  this.NatishaArfman;
+  }
+   private Boolean  ClaudLetchaw;
+   public void set_ClaudLetchaw(Boolean ClaudLetchaw){
+   this.ClaudLetchaw=ClaudLetchaw;
+   }
+  public Boolean get_ClaudLetchaw(){
+  this.ClaudLetchaw;
+  }
+   private String  KrystynaMcneil;
+   public void set_KrystynaMcneil(String KrystynaMcneil){
+   this.KrystynaMcneil=KrystynaMcneil;
+   }
+  public String get_KrystynaMcneil(){
+  this.KrystynaMcneil;
+  }
+   private Double  TatianaGraul;
+   public void set_TatianaGraul(Double TatianaGraul){
+   this.TatianaGraul=TatianaGraul;
+   }
+  public Double get_TatianaGraul(){
+  this.TatianaGraul;
+  }
+}

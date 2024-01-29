@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSRayKarnas{
+   private Boolean  EloisRoitman;
+   public void set_EloisRoitman(Boolean EloisRoitman){
+   this.EloisRoitman=EloisRoitman;
+   }
+  public Boolean get_EloisRoitman(){
+  this.EloisRoitman;
+  }
+   private Double  JuniorThain;
+   public void set_JuniorThain(Double JuniorThain){
+   this.JuniorThain=JuniorThain;
+   }
+  public Double get_JuniorThain(){
+  this.JuniorThain;
+  }
+   private String  DonnieShin;
+   public void set_DonnieShin(String DonnieShin){
+   this.DonnieShin=DonnieShin;
+   }
+  public String get_DonnieShin(){
+  this.DonnieShin;
+  }
+   private String  DebbiTolden;
+   public void set_DebbiTolden(String DebbiTolden){
+   this.DebbiTolden=DebbiTolden;
+   }
+  public String get_DebbiTolden(){
+  this.DebbiTolden;
+  }
+   private Double  CherrieLishman;
+   public void set_CherrieLishman(Double CherrieLishman){
+   this.CherrieLishman=CherrieLishman;
+   }
+  public Double get_CherrieLishman(){
+  this.CherrieLishman;
+  }
+   private Integer  BettinaTitterington;
+   public void set_BettinaTitterington(Integer BettinaTitterington){
+   this.BettinaTitterington=BettinaTitterington;
+   }
+  public Integer get_BettinaTitterington(){
+  this.BettinaTitterington;
+  }
+   private Integer  BryannaBecerril;
+   public void set_BryannaBecerril(Integer BryannaBecerril){
+   this.BryannaBecerril=BryannaBecerril;
+   }
+  public Integer get_BryannaBecerril(){
+  this.BryannaBecerril;
+  }
+   private String  DaniaJenny;
+   public void set_DaniaJenny(String DaniaJenny){
+   this.DaniaJenny=DaniaJenny;
+   }
+  public String get_DaniaJenny(){
+  this.DaniaJenny;
+  }
+   private Boolean  ChongMuhammed;
+   public void set_ChongMuhammed(Boolean ChongMuhammed){
+   this.ChongMuhammed=ChongMuhammed;
+   }
+  public Boolean get_ChongMuhammed(){
+  this.ChongMuhammed;
+  }
+   private String  JazmineBarcelo;
+   public void set_JazmineBarcelo(String JazmineBarcelo){
+   this.JazmineBarcelo=JazmineBarcelo;
+   }
+  public String get_JazmineBarcelo(){
+  this.JazmineBarcelo;
+  }
+}

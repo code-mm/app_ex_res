@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSKatelinDeuel{
+   private String  PatMesina;
+   public void set_PatMesina(String PatMesina){
+   this.PatMesina=PatMesina;
+   }
+  public String get_PatMesina(){
+  this.PatMesina;
+  }
+   private Double  LetaZuckerman;
+   public void set_LetaZuckerman(Double LetaZuckerman){
+   this.LetaZuckerman=LetaZuckerman;
+   }
+  public Double get_LetaZuckerman(){
+  this.LetaZuckerman;
+  }
+   private Boolean  RosalynTimar;
+   public void set_RosalynTimar(Boolean RosalynTimar){
+   this.RosalynTimar=RosalynTimar;
+   }
+  public Boolean get_RosalynTimar(){
+  this.RosalynTimar;
+  }
+   private String  BrittaneyDenger;
+   public void set_BrittaneyDenger(String BrittaneyDenger){
+   this.BrittaneyDenger=BrittaneyDenger;
+   }
+  public String get_BrittaneyDenger(){
+  this.BrittaneyDenger;
+  }
+   private Integer  DemetriceIden;
+   public void set_DemetriceIden(Integer DemetriceIden){
+   this.DemetriceIden=DemetriceIden;
+   }
+  public Integer get_DemetriceIden(){
+  this.DemetriceIden;
+  }
+   private Boolean  GeorgianaFeist;
+   public void set_GeorgianaFeist(Boolean GeorgianaFeist){
+   this.GeorgianaFeist=GeorgianaFeist;
+   }
+  public Boolean get_GeorgianaFeist(){
+  this.GeorgianaFeist;
+  }
+   private Boolean  NanaFanzo;
+   public void set_NanaFanzo(Boolean NanaFanzo){
+   this.NanaFanzo=NanaFanzo;
+   }
+  public Boolean get_NanaFanzo(){
+  this.NanaFanzo;
+  }
+   private Integer  LeahEsterline;
+   public void set_LeahEsterline(Integer LeahEsterline){
+   this.LeahEsterline=LeahEsterline;
+   }
+  public Integer get_LeahEsterline(){
+  this.LeahEsterline;
+  }
+   private Integer  KhadijahCattanach;
+   public void set_KhadijahCattanach(Integer KhadijahCattanach){
+   this.KhadijahCattanach=KhadijahCattanach;
+   }
+  public Integer get_KhadijahCattanach(){
+  this.KhadijahCattanach;
+  }
+   private String  AnnetteEitnier;
+   public void set_AnnetteEitnier(String AnnetteEitnier){
+   this.AnnetteEitnier=AnnetteEitnier;
+   }
+  public String get_AnnetteEitnier(){
+  this.AnnetteEitnier;
+  }
+}

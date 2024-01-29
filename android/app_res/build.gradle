@@ -1,0 +1,119 @@
+plugins {
+    id 'com.android.library'
+}
+
+
+//def APP = "cyzqb"
+//def APP = "cyjcs"
+//def APP = "pfdl"
+//def APP = "wificsds"
+//def APP = "cdwyh"
+//def APP = "cdzql"
+//def APP = "cdzbt"
+//def APP = "jbzql"
+//def APP = "dzfls"
+//def APP = "pffls"
+//def APP = "pfdwj"
+//def APP = "mpply"
+def APP = "pflbs"
+
+android {
+    namespace 'com.my.images_1'
+    compileSdk 33
+
+    defaultConfig {
+        minSdk 21
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    sourceSets {
+        main {
+            if ("cyjcs".equalsIgnoreCase(APP)) {
+                res.srcDirs = ['../res_cyjcs/res']
+                manifest.srcFile '../res_cyjcs/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            } else if ("cyzqb".equalsIgnoreCase(APP)) {
+                res.srcDirs = ['../res_cyzqb/res']
+                manifest.srcFile '../res_cyzqb/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("pfdl".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_pfdl/res']
+                manifest.srcFile '../res_pfdl/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("wificsds".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_wificsds/res']
+                manifest.srcFile '../res_wificsds/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("cdwyh".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_cdwyh/res']
+                manifest.srcFile '../res_cdwyh/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("cdzql".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_cdzql/res']
+                manifest.srcFile '../res_cdzql/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("cdzbt".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_cdzbt/res']
+                manifest.srcFile '../res_cdzbt/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("jbzql".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_jbzql/res']
+                manifest.srcFile '../res_jbzql/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("dzfls".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_dzfls/res']
+                manifest.srcFile '../res_dzfls/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("pffls".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_pffls/res']
+                manifest.srcFile '../res_pffls/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("pfdwj".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_pfdwj/res']
+                manifest.srcFile '../res_pfdwj/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("mpply".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_mpply/res']
+                manifest.srcFile '../res_mpply/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }else if("pflbs".equalsIgnoreCase(APP)){
+                res.srcDirs = ['../res_pflbs/res']
+                manifest.srcFile '../res_pflbs/AndroidManifest.xml'
+                java.srcDirs = ['/Users/maohuawei/src/yc/android-gen-resources/android-gen-resources/out/' + APP]
+            }
+        }
+    }
+}
+
+android.libraryVariants.configureEach { variant ->
+    variant.outputs.configureEach {
+        variant.outputs.each { output ->
+            if (variant.buildType.name.equals('release')) {
+                outputFileName = "${APP}.aar"
+            }
+        }
+    }
+}
+
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.10.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+}

@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<application>
+<activity
+                    android:name="ta30ea.ab.o5.JanethGatch"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="rdd3f.wf32.a.KayceMurff"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b1e88d93.p5.d.MarisJelarde"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n9464.h074.h05.DebrahKlages"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="cbe1.d18.m69.LisbethMccolgan"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j91.l2c0.k27d64.PeteJagodzinski"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c7d6020.a622365.v74d1ef8.BettinaGolackson"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="w.f510201f.v58a35.CandiceMarlatt"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s6ffa4.bbb01313.gec6b.SoilaToone"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d.b.c7cb3a.GuadalupeWeiden"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d886.j5a3978f.a8553a.KashaFerrer"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="a2.l7c.f.NadeneBartron"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m.c4.ffaa.MerrileeAllgire"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d647.m4799d7.l9c73fd7.TrudyDepue"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="jfc149.v9b.e97d.ShariHordge"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r.r8d1.a250.DeloisColquitt"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n.a21e.j881187c.PetePridgeon"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="y26.m0f09b21.cd35606.LaurynWiggins"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="sd1d1187.ba3be.g8.JaneyPeros"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m47bc5.n2c1b2.k7.NancieBellar"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="oab.j.d99.CorinnaGasienica"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j8.l1fea04.c6d.CorinaOrdona"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m4bbfac.m.b49d1307.BookerMersch"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="icd523cd.d6.rc58f226.LashawndaMccuiston"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s289c.bc81f.v83ee.LupitaTravillian"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="lff0.iff.kbffb25.NickiePallanes"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l74aeb6b.s59a9337.lc47dc.BernardineLlamas"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="eca.k7162898.n41b678.AdellaLeffelman"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s901d18a.bd8.r558b7c9.MaryanneSchieferstein"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b.t.v32d6c69.DaraPrudhomme"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="meef59dc.k360.h88.KristeenForgey"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r118ba21.a.g.RebbecaDrillock"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m4b4b.rd5524.t11.LavondaChappan"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="yf9086.r854d9.m2ddb8d.CarlineTriplett"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m53.kfa.y152a.EdHynd"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s22.z491a5f.jdcb.RonniOsland"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j2acd.r7.i.ArethaPatague"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="t1e876ab.madc.s726.LamonicaTorchia"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="aa1.i05485.sb2572d.KristleWilner"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n431544.fd83.m2.IeshaKarnas"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="jbdb.l0.a75cf788.SeasonDieteman"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l.p69faa8.s359aae.BrianneRoyle"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="e14e70.s.l9e073.AliaBellessa"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ff1.ac.l1edfd8.NaidaJaji"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j1b9.t5.sd05c14.ChongLandruth"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="gbababb.je1e48.cb.BunnyMelching"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="f9.c4.t7d2.EddaMalloch"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c.t.f8000.HedwigAlkins"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ic111255.sa.s.VasilikiNehme"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="y515a0b.b0c1a.mb84.EvetteAmat"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b05f6e.v1d4db0.mb6c.RosanaNordmeyer"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="f507e3a7.dc8.ec622.MyDedinas"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="efb88443.c1dc.f9cb2d9c.SheriKaps"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m10.lfb53991.a0f.VonnieCaveness"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s06.k3.d353.DoyleAspegren"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m42cb429.k88e.l9a148.DavisBabula"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d1.v495249.a8b65.CarmonSemetara"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b.m969a8.m25.YasukoCena"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s3.ab9b92a.c059bcb.AngelynNattiah"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m6.db5a6077.ya07.DrewHuckabaa"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="g8253df.ffc48.l3.DerekSher"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="k4cdc.bfa8.r01146.JenaKastanes"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n6dff52.mb36c9a4.i85dc.MendyGrashot"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l2.m9a29552.b.ValeneCurtis"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="e76.h5630e.k8266a27.AracelisBaynard"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ac4.e3a70.l75f6.LeonidaDiones"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ga60d4b.s17f210.a705.TyishaBoman"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="pc2452a8.ke520.d855a78.RosamariaKsiazek"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n1486f.jc05.k18267.CandidaLowman"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="re.w.a2cc.ArdeliaMarlborough"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c173a.g80.b3.EdwardRuda"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="t7ca.s0f8.t7.SanfordRossin"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c212.ra6f.la.BessieDyce"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="abfc9.pe60a1.a26.SherwoodSalwasser"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c.a52866c.mfff413.SlyviaLinsner"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="h.zb84b7.a4fa4c6.ChanelDittbrenner"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="jb19.s681fd.dc6.SachikoMilley"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d18c964a.r828.l7063.StevenBarvosa"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="f84c.me7.v.TijuanaBerret"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m6b.k00d.c60.ColetteWolsdorf"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="jf.v7c2.l94c.TerresaLadika"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r06be.s9632.h.RosariaSilton"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="efd35.v43d5df4.jc928.JaySilsbee"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="re9ec3.p15.cdc47b08.CordieHayslip"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d29275.t68d7c68.tb65a47c.SharriWainio"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j8875044.cba.l13f.KarlyStearns"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n22880.w292.c7286480.GarfieldMurelli"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="z9f.y6a9.b.JonathonSchlarbaum"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="i136b9cf.m3191.wc091.KatheyBurford"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="v69d90.m30077.gc2b4.MitchTwiner"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="f8.t5746d59.fd589d0.HelenSpadaro"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="mffca.m297.ad6.CyndiKarth"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="jd22d.nc6e1751.a0fc0bf.PasqualeBarbian"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="cb95371.abad867.na44.MerylHaddix"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m.jc63.s.RobertoSaam"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j4edc5.vcac048.aeb2579.AikoArnau"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="t530.a.l8bb5.KandraCocroft"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n.m927e.m.RebbeccaHohn"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d4a624a8.rde73.je8.ToraDetermann"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s392e2.s7.ga.DainaZam"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s6.j2.f1947.CarrolRiedy"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="e73.bf1.b4c97.HarrisTrevarthen"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="i.c3e090.lb3c.BennettJovich"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r4523.l0cde.m4046b2.TakakoBisping"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l115b.p667d.a875.DuncanBend"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m7480536.he13.kc6e049.DaiseyCourtemanche"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="nd.m5f6b0.g.GiselaCliatt"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="e6.l6c3d.fd999b.KathernSantore"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="td98.eb6.v046e.HayleyDerwin"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="f.c.b.EmiliaConditt"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r37c4.a50d7.t.LucianoPebsworth"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="v.rd0f0009.cf.LeeLabean"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="d9b6.ga17.k6f.TerriSchremp"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="eff.a24a.b3b.JinaEfthimiou"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="t9323a.jdc1382.jb.TracyAment"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="kaf.b3.kaab05.ClaudineCilibrasi"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="rec4.c0e1.hf43.AmyHatfield"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c9178.ja.m.EmanuelHeydel"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l675434.m81c5e.ff21079d.TessSater"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ac0e2e3c.m.s246.ThomasineBuchana"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="rdb2aa.a.t839ae12.LizzetteGigliotti"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ae9ded2d.sd84ef.g9c7c02.MurrayMcclenaghan"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="e25611.mdb.gf19344.CletusTrude"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s818eb6.c71fd8d.lbb1084.DenicePloeger"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="t3.mc093748.ra90.GilbertoBeardall"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m.l0723.b.CandisBrumaghim"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b61d3.j03.m.DanutaNansteel"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ibd.d7c63edb.jda.VerlieVitez"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s54a4f1.c.sa.RamonitaMcgarity"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="wf6c633.e627c.s62c2ae.IlseHamborsky"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="na7e.k4.sa883.TericaThroneburg"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l21d149.b.we.AmeliaLabrake"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="rac0442.k126134.pa7e.VictoriaJerowski"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c749b8e.c5f56c.ta26607.CrissySuoboda"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="t0093e.e3bb1738.sf51.CrisWillinghurst"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="a6e.t.a.GlennHudkins"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="k7.h73.ja38.JosetteSchaul"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="e83.c1.w3.PhuongWires"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="f.zfd123fb.f958f55d.MargotGlatt"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j6c732.l1.zc23c.DaneLahne"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="n8890b.oc2249.j2108bfb.ClementKerslake"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="g17fd8.k8b9.abafde4.MabelMensi"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="mc.n4.jf.RoyceNolazco"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="i9c186.maca4c.g8b26c.SherwoodHeinold"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r5a1.g9ea5ed.lca74d4e.LizetteTardy"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b3d2.s.c1.HeikeForsgren"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c9da0.l7f914.cbb01.ElishaDebreto"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="a6f62.a902c.mcd.LizabethResper"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="jc.e5905.dab.DebiKotera"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m4b44e.h367.s5a2e71.BettieZachery"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="o51.m15.g540.CatherinPaules"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="rea.jc12bf.h874.SamathaWilding"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="e21e6ab.s4e6.a90b0.RayfordGotay"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c6.ga74d.m1.RebecaAdamaitis"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="o8f.k.d1dec704.CharisseRosenbalm"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m1ff39ed.h368.c6fc1e.BartSpartichino"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l3743295.afc.hd76df.DickKliever"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="kd.fce5f3.jed7b67.NannetteLimbert"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="dbd.ma17dee.h9ca.PierreZilahi"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ef0fb.b725d1.k60d91cb.AdelineWesberry"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="a22bd.s7c11ab.jda.LadyCerney"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j9.k4.ma3.NancyWard"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ib4e5a.a66.m2.IrinaMalaspina"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="p686.i2fb3ee8.dcca8d4.FrancescoHarding"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="g059b7b2.k40a55d6.b.MagaliShankles"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="le74f72.d8.a57250.ChristelMcleod"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="y1958d1.c3.m06471.TarraGahm"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="mf4.t5.a.DannyStraus"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r.s.aff47.RileyBrengle"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="edabd9d3.bee4.r1647e4b.CordellLinington"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l9c3.m33be4.b8bdb3c.SusanaAlampi"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="cf35.ce75.k95dfb.LavonnaCurci"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="hab375c.n093d76.bf699b5.LeahPollet"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ja8ed82.m42020a1.yd9b.BeaulahVolcko"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="rf.l17e786.c976.MelissiaKazanowski"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="sacdc.c666793.k61652.TressaSosinsky"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s34.y96828c.m021a.NikiMyall"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="r9.t0fb7.e5d.MercedesConstantine"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="cbf2.t8.e10334.NicolasStenner"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="c.a.m27676.RoyGarafalo"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="me733.r27c.m950848e.JoellenSande"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="g3eb2941.a7f.a5a6f7a.JacquelynnTeehee"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l09a12.ofce.rf.FletcherFlaugher"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="f27.k65dab2f.n5b9.FrediaMarohl"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ic.lc7.t7c7f.JericaLingel"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l.cd5.v6.AngelicaPicardi"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="rd.g9.p908f5b1.JanisYelle"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="s9c0ec.m6.j4.CatherineRoen"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ecab.j6c856d.m995.WinstonFortun"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l4c0840.ecc89af8.m7.YolandoGoynes"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="pe65a8c.r1af9.nd9b65.BongWitkus"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="m5095.rac997.w6e5.AzaleeYslava"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="i154895.f15.n247.JacquelynnPantano"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b89795.ecae2.sdf6553.GracieKinion"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="j3.v0e50f.l10e9e.MyongFraley"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="k7e4.b73.oed7.NanceeDebord"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="b38.d7c2.l8d.KathyPilato"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="l07.d1423.ab886e58.CatriceMonforte"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="ja24.a.eabbdbd.KyongQuitter"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+<activity
+                    android:name="g.m6.g0060540.AwildaPatout"
+                    android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+                    android:screenOrientation="portrait" />
+</application>
+</manifest>

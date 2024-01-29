@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSEldaGetchell{
+   private String  FerdinandMaybrier;
+   public void set_FerdinandMaybrier(String FerdinandMaybrier){
+   this.FerdinandMaybrier=FerdinandMaybrier;
+   }
+  public String get_FerdinandMaybrier(){
+  this.FerdinandMaybrier;
+  }
+   private Boolean  SunFast;
+   public void set_SunFast(Boolean SunFast){
+   this.SunFast=SunFast;
+   }
+  public Boolean get_SunFast(){
+  this.SunFast;
+  }
+   private Double  MikelBillotti;
+   public void set_MikelBillotti(Double MikelBillotti){
+   this.MikelBillotti=MikelBillotti;
+   }
+  public Double get_MikelBillotti(){
+  this.MikelBillotti;
+  }
+   private Integer  PeiLedain;
+   public void set_PeiLedain(Integer PeiLedain){
+   this.PeiLedain=PeiLedain;
+   }
+  public Integer get_PeiLedain(){
+  this.PeiLedain;
+  }
+   private Boolean  EdytheBalonek;
+   public void set_EdytheBalonek(Boolean EdytheBalonek){
+   this.EdytheBalonek=EdytheBalonek;
+   }
+  public Boolean get_EdytheBalonek(){
+  this.EdytheBalonek;
+  }
+   private Double  MaricruzPebsworth;
+   public void set_MaricruzPebsworth(Double MaricruzPebsworth){
+   this.MaricruzPebsworth=MaricruzPebsworth;
+   }
+  public Double get_MaricruzPebsworth(){
+  this.MaricruzPebsworth;
+  }
+   private String  LudieLinde;
+   public void set_LudieLinde(String LudieLinde){
+   this.LudieLinde=LudieLinde;
+   }
+  public String get_LudieLinde(){
+  this.LudieLinde;
+  }
+   private Boolean  DeloresRowling;
+   public void set_DeloresRowling(Boolean DeloresRowling){
+   this.DeloresRowling=DeloresRowling;
+   }
+  public Boolean get_DeloresRowling(){
+  this.DeloresRowling;
+  }
+   private Double  PetrinaCharriez;
+   public void set_PetrinaCharriez(Double PetrinaCharriez){
+   this.PetrinaCharriez=PetrinaCharriez;
+   }
+  public Double get_PetrinaCharriez(){
+  this.PetrinaCharriez;
+  }
+   private Integer  LawannaMartinkus;
+   public void set_LawannaMartinkus(Integer LawannaMartinkus){
+   this.LawannaMartinkus=LawannaMartinkus;
+   }
+  public Integer get_LawannaMartinkus(){
+  this.LawannaMartinkus;
+  }
+}

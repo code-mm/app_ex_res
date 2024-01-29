@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSTarynBovie{
+   private Boolean  BarbaraJacquin;
+   public void set_BarbaraJacquin(Boolean BarbaraJacquin){
+   this.BarbaraJacquin=BarbaraJacquin;
+   }
+  public Boolean get_BarbaraJacquin(){
+  this.BarbaraJacquin;
+  }
+   private Integer  GranvilleKjergaard;
+   public void set_GranvilleKjergaard(Integer GranvilleKjergaard){
+   this.GranvilleKjergaard=GranvilleKjergaard;
+   }
+  public Integer get_GranvilleKjergaard(){
+  this.GranvilleKjergaard;
+  }
+   private Double  SidDrainer;
+   public void set_SidDrainer(Double SidDrainer){
+   this.SidDrainer=SidDrainer;
+   }
+  public Double get_SidDrainer(){
+  this.SidDrainer;
+  }
+   private Integer  AmosGeldrich;
+   public void set_AmosGeldrich(Integer AmosGeldrich){
+   this.AmosGeldrich=AmosGeldrich;
+   }
+  public Integer get_AmosGeldrich(){
+  this.AmosGeldrich;
+  }
+   private String  NigelPortnoy;
+   public void set_NigelPortnoy(String NigelPortnoy){
+   this.NigelPortnoy=NigelPortnoy;
+   }
+  public String get_NigelPortnoy(){
+  this.NigelPortnoy;
+  }
+   private String  CindyDelahoussaye;
+   public void set_CindyDelahoussaye(String CindyDelahoussaye){
+   this.CindyDelahoussaye=CindyDelahoussaye;
+   }
+  public String get_CindyDelahoussaye(){
+  this.CindyDelahoussaye;
+  }
+   private String  LamonicaIvener;
+   public void set_LamonicaIvener(String LamonicaIvener){
+   this.LamonicaIvener=LamonicaIvener;
+   }
+  public String get_LamonicaIvener(){
+  this.LamonicaIvener;
+  }
+   private Integer  NedraFellezs;
+   public void set_NedraFellezs(Integer NedraFellezs){
+   this.NedraFellezs=NedraFellezs;
+   }
+  public Integer get_NedraFellezs(){
+  this.NedraFellezs;
+  }
+   private Boolean  KamiMorriss;
+   public void set_KamiMorriss(Boolean KamiMorriss){
+   this.KamiMorriss=KamiMorriss;
+   }
+  public Boolean get_KamiMorriss(){
+  this.KamiMorriss;
+  }
+   private Boolean  EtsukoDyson;
+   public void set_EtsukoDyson(Boolean EtsukoDyson){
+   this.EtsukoDyson=EtsukoDyson;
+   }
+  public Boolean get_EtsukoDyson(){
+  this.EtsukoDyson;
+  }
+}

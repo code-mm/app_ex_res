@@ -1,0 +1,12 @@
+package ${packageName};
+public class ${className}{
+<#list properties as param>
+   private ${param.type}  ${param.name};
+   public void set_${param.name}(${param.type} ${param.name}){
+   this.${param.name}=${param.name};
+   }
+  public ${param.type} get_${param.name}(){
+  return   this.${param.name};
+  }
+</#list>
+}

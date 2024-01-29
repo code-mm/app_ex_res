@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSVirginaLemin{
+   private Double  ToriWinders;
+   public void set_ToriWinders(Double ToriWinders){
+   this.ToriWinders=ToriWinders;
+   }
+  public Double get_ToriWinders(){
+  this.ToriWinders;
+  }
+   private String  TabithaVelandia;
+   public void set_TabithaVelandia(String TabithaVelandia){
+   this.TabithaVelandia=TabithaVelandia;
+   }
+  public String get_TabithaVelandia(){
+  this.TabithaVelandia;
+  }
+   private Integer  SebastianCodere;
+   public void set_SebastianCodere(Integer SebastianCodere){
+   this.SebastianCodere=SebastianCodere;
+   }
+  public Integer get_SebastianCodere(){
+  this.SebastianCodere;
+  }
+   private Boolean  LourieGrenon;
+   public void set_LourieGrenon(Boolean LourieGrenon){
+   this.LourieGrenon=LourieGrenon;
+   }
+  public Boolean get_LourieGrenon(){
+  this.LourieGrenon;
+  }
+   private Boolean  JeanieBarre;
+   public void set_JeanieBarre(Boolean JeanieBarre){
+   this.JeanieBarre=JeanieBarre;
+   }
+  public Boolean get_JeanieBarre(){
+  this.JeanieBarre;
+  }
+   private Double  QianaThiede;
+   public void set_QianaThiede(Double QianaThiede){
+   this.QianaThiede=QianaThiede;
+   }
+  public Double get_QianaThiede(){
+  this.QianaThiede;
+  }
+   private Boolean  JedFaessler;
+   public void set_JedFaessler(Boolean JedFaessler){
+   this.JedFaessler=JedFaessler;
+   }
+  public Boolean get_JedFaessler(){
+  this.JedFaessler;
+  }
+   private Boolean  BoMatuszewski;
+   public void set_BoMatuszewski(Boolean BoMatuszewski){
+   this.BoMatuszewski=BoMatuszewski;
+   }
+  public Boolean get_BoMatuszewski(){
+  this.BoMatuszewski;
+  }
+   private Integer  IleneHalmstead;
+   public void set_IleneHalmstead(Integer IleneHalmstead){
+   this.IleneHalmstead=IleneHalmstead;
+   }
+  public Integer get_IleneHalmstead(){
+  this.IleneHalmstead;
+  }
+   private Boolean  JosueVasek;
+   public void set_JosueVasek(Boolean JosueVasek){
+   this.JosueVasek=JosueVasek;
+   }
+  public Boolean get_JosueVasek(){
+  this.JosueVasek;
+  }
+}

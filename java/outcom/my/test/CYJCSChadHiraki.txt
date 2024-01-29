@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSChadHiraki{
+   private Integer  WernerFalick;
+   public void set_WernerFalick(Integer WernerFalick){
+   this.WernerFalick=WernerFalick;
+   }
+  public Integer get_WernerFalick(){
+  this.WernerFalick;
+  }
+   private Boolean  MathaGiannell;
+   public void set_MathaGiannell(Boolean MathaGiannell){
+   this.MathaGiannell=MathaGiannell;
+   }
+  public Boolean get_MathaGiannell(){
+  this.MathaGiannell;
+  }
+   private Boolean  KandaceLessman;
+   public void set_KandaceLessman(Boolean KandaceLessman){
+   this.KandaceLessman=KandaceLessman;
+   }
+  public Boolean get_KandaceLessman(){
+  this.KandaceLessman;
+  }
+   private Double  JennetteGovan;
+   public void set_JennetteGovan(Double JennetteGovan){
+   this.JennetteGovan=JennetteGovan;
+   }
+  public Double get_JennetteGovan(){
+  this.JennetteGovan;
+  }
+   private Integer  JuanitaFoley;
+   public void set_JuanitaFoley(Integer JuanitaFoley){
+   this.JuanitaFoley=JuanitaFoley;
+   }
+  public Integer get_JuanitaFoley(){
+  this.JuanitaFoley;
+  }
+   private String  LangMalabe;
+   public void set_LangMalabe(String LangMalabe){
+   this.LangMalabe=LangMalabe;
+   }
+  public String get_LangMalabe(){
+  this.LangMalabe;
+  }
+   private Integer  SidneyMcilvenny;
+   public void set_SidneyMcilvenny(Integer SidneyMcilvenny){
+   this.SidneyMcilvenny=SidneyMcilvenny;
+   }
+  public Integer get_SidneyMcilvenny(){
+  this.SidneyMcilvenny;
+  }
+   private String  JolandaUseted;
+   public void set_JolandaUseted(String JolandaUseted){
+   this.JolandaUseted=JolandaUseted;
+   }
+  public String get_JolandaUseted(){
+  this.JolandaUseted;
+  }
+   private String  LouisePeay;
+   public void set_LouisePeay(String LouisePeay){
+   this.LouisePeay=LouisePeay;
+   }
+  public String get_LouisePeay(){
+  this.LouisePeay;
+  }
+   private Integer  KenishaGerardi;
+   public void set_KenishaGerardi(Integer KenishaGerardi){
+   this.KenishaGerardi=KenishaGerardi;
+   }
+  public Integer get_KenishaGerardi(){
+  this.KenishaGerardi;
+  }
+}

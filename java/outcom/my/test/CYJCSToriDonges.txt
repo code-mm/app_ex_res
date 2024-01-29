@@ -1,0 +1,73 @@
+package com.my.test;
+public class CYJCSToriDonges{
+   private Double  AlethaVasques;
+   public void set_AlethaVasques(Double AlethaVasques){
+   this.AlethaVasques=AlethaVasques;
+   }
+  public Double get_AlethaVasques(){
+  this.AlethaVasques;
+  }
+   private Double  WillyFondaw;
+   public void set_WillyFondaw(Double WillyFondaw){
+   this.WillyFondaw=WillyFondaw;
+   }
+  public Double get_WillyFondaw(){
+  this.WillyFondaw;
+  }
+   private String  RoniDevotie;
+   public void set_RoniDevotie(String RoniDevotie){
+   this.RoniDevotie=RoniDevotie;
+   }
+  public String get_RoniDevotie(){
+  this.RoniDevotie;
+  }
+   private Integer  RitaBalser;
+   public void set_RitaBalser(Integer RitaBalser){
+   this.RitaBalser=RitaBalser;
+   }
+  public Integer get_RitaBalser(){
+  this.RitaBalser;
+  }
+   private Integer  NelliePanther;
+   public void set_NelliePanther(Integer NelliePanther){
+   this.NelliePanther=NelliePanther;
+   }
+  public Integer get_NelliePanther(){
+  this.NelliePanther;
+  }
+   private Integer  RashadShepheard;
+   public void set_RashadShepheard(Integer RashadShepheard){
+   this.RashadShepheard=RashadShepheard;
+   }
+  public Integer get_RashadShepheard(){
+  this.RashadShepheard;
+  }
+   private Boolean  DaltonLaham;
+   public void set_DaltonLaham(Boolean DaltonLaham){
+   this.DaltonLaham=DaltonLaham;
+   }
+  public Boolean get_DaltonLaham(){
+  this.DaltonLaham;
+  }
+   private String  CharaErlanger;
+   public void set_CharaErlanger(String CharaErlanger){
+   this.CharaErlanger=CharaErlanger;
+   }
+  public String get_CharaErlanger(){
+  this.CharaErlanger;
+  }
+   private Integer  BurlOfford;
+   public void set_BurlOfford(Integer BurlOfford){
+   this.BurlOfford=BurlOfford;
+   }
+  public Integer get_BurlOfford(){
+  this.BurlOfford;
+  }
+   private Boolean  KaitlinPac;
+   public void set_KaitlinPac(Boolean KaitlinPac){
+   this.KaitlinPac=KaitlinPac;
+   }
+  public Boolean get_KaitlinPac(){
+  this.KaitlinPac;
+  }
+}

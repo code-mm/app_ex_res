@@ -1,0 +1,10 @@
+package com.my.test;
+public class CCC{
+   private String  atest;
+   public void set_atest(String atest){
+   this.atest=atest;
+   }
+  public String get_atest(){
+  this.atest;
+  }
+}
